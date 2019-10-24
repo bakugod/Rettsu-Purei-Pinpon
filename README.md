@@ -1,2 +1,2 @@
 # Ping Pong
-Ping pong impl with rust and amethyst
+Ping pong game with rust and amethyst
